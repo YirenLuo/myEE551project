@@ -1,6 +1,6 @@
-### When I was child, I like play games, especially Plane Wars.I remeber there was a famous plane battle game<br>
-### called Raiden, and that is my favorite game. Therefore, I want to make a simple vision Plane War to be my<br> 
-### project, then I can recall my childhood which is a unforgettable time<br> 
+### When I was child, I like play games, especially Plane Wars. I remeber there was a famous plane battle game called Raiden,<br> 
+### and that is my favorite game. Therefore, I want to make a simple vision Plane War to be my project, then I can recall my<br>
+### childhoood which is a unforgettable time<br> 
 #### As follows. there is the introduction and summary of the project.<br>
 #### Game modes include single player mode and dual mode.<br>
 #### In the single player mode, the player controls the spacecraft action by ↑↓←→, and the J key launches the projectile<br>
