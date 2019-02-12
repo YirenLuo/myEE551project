@@ -1,8 +1,10 @@
 ### When I was child, I like play games, especially Plane Wars. Therefore, I want to make a simple vision Plane War to be my project.
 #### As follows. there is the introduction and summary of the project.<br>
-#### Game modes include single player mode and dual mode.
+#### Game modes include single player mode and dual mode.<br>
 #### In the single player mode, the player controls the spacecraft action by ↑↓←→, and the J key launches the projectile<br>
-#### in the double mode, the player controls the spacecraft by ↑↓←→, the J key launches the projectile, and the player controls the spacecraft by wsad, the space bar Launch a projectile. Each time an asteroid (or meteorite) is crushed, the player scores one. If all players are hit by an asteroid, the game ends.<br>
+#### in the double mode, the player controls the spacecraft by ↑↓←→, the J key launches the projectile,<br>
+#### and the player controls the spacecraft by wsad, the space bar Launch a projectile.<br>
+#### Each time an asteroid (or meteorite) is crushed, the player scores one. If all players are hit by an asteroid, the game ends.<br>
 
 
 
