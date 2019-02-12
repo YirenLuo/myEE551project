@@ -1,4 +1,4 @@
-## &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Proposal
+## &nbsp; Proposal##
 ### When I was child, I like play games, especially Plane Wars. I remeber there was a famous plane battle game called Raiden, and that is my favorite game. Therefore, I want to make a simple vision Plane War to be my project, then I can recall my childhoood which is a   unforgettable time<br> 
 #### As follows. there is the introduction and summary of the project.<br>
 #### Game modes include single player mode and dual mode.<br>
