@@ -10,5 +10,5 @@
 #### Each time an asteroid (or meteorite) is crushed, the player scores one. If all players are hit by an asteroid, the game ends.<br>
 #### I hope I can achieve this project, and complete childhood dream.
 ### Author 
-#### —Yiren Luo
+- Yiren Luo
 
